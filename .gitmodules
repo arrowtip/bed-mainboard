@@ -1,0 +1,6 @@
+[submodule "code"]
+	path = code
+	url = git@github.com:arrowtip/bed-mainboard_led-control.git
+[submodule "pcb"]
+	path = pcb
+	url = git@github.com:arrowtip/bed-mainboard_pcb.git
