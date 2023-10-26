@@ -1,0 +1,3 @@
+# bed-mainboard
+
+Mainboard to control variety of peripherals including LEDs, microphone, ethernet switch ...
